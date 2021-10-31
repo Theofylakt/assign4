@@ -38,7 +38,7 @@ namespace EfEx
             modelBuilder.Entity<Products>().Property(x => x.CategoryId).HasColumnName("categoryid");
             modelBuilder.Entity<Products>().Property(x => x.QuantityPerUnit).HasColumnName("quantityperunit");
             modelBuilder.Entity<Products>().Property(x => x.UnitPrice).HasColumnName("unitprice");
-            modelBuilder.Entity<Products>().Property(x => x.UnitIsInStock).HasColumnName("unitisinstock");
+            modelBuilder.Entity<Products>().Property(x => x.UnitsInStock).HasColumnName("unitsinstock");
 
 
 

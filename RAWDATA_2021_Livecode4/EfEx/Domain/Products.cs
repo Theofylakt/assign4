@@ -12,14 +12,14 @@ namespace EfEx.Domain
         public string Name { get; set; }
         public int SupplierId { get; set; }
         public int CategoryId { get; set; }
-        public int QuantityPerUnit { get; set; }
+        public string QuantityPerUnit { get; set; }
         public int UnitPrice { get; set; }
-        public int UnitIsInStock { get; set; }
+        public int UnitsInStock { get; set; }
         //public Category Category { get; set; }
 
         public override string ToString()
         {
-            return $"Id = {Id}, Name = {Name}, SupplierId = {SupplierId}, CategoryID = {CategoryId}, QuantityPerUnit = {QuantityPerUnit}, UnitPrice = {UnitPrice}, UnitIsInStock = {UnitIsInStock}";
+            return $"Id = {Id}, Name = {Name}, SupplierId = {SupplierId}, CategoryID = {CategoryId}, QuantityPerUnit = {QuantityPerUnit}, UnitPrice = {UnitPrice}, UnitIsInStock = {UnitsInStock}";
         }
     }
 }
