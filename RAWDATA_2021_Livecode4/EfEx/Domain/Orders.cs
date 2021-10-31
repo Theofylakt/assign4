@@ -9,9 +9,9 @@ namespace EfEx.Domain
     public class Order
     {
         public int Id { get; set; }
-        public int OrderDate { get; set; }
-        public int RequiredDate { get; set; }
-        public int ShippedDate { get; set; }
+        public DateTime OrderDate { get; set; }
+        public DateTime RequiredDate { get; set; }
+        public DateTime ShippedDate { get; set; }
         public int Freight { get; set; }
         public string ShipName { get; set; }
         public string ShipCity { get; set; }

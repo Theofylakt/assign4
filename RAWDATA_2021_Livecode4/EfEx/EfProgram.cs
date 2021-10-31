@@ -12,11 +12,16 @@ namespace EfEx
         {
             var dataService = new DataService();
 
-            foreach(var product in dataService.GetProducts())
-            {
-                Console.WriteLine(product);
+            //foreach(var product in dataService.GetProducts())
+            //{
+            //    Console.WriteLine(product);
+            //}
+            //foreach (var category in dataService.GetCategories())
+            //{
+            //    Console.WriteLine(category);
             }
-        }
+
+
 
         
 

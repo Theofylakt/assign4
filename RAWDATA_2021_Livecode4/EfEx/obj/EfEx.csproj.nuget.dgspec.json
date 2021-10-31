@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anath\\source\\repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj": {}
+    "C:\\Users\\anath\\Source\\Repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anath\\source\\repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj": {
+    "C:\\Users\\anath\\Source\\Repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anath\\source\\repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj",
+        "projectUniqueName": "C:\\Users\\anath\\Source\\Repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj",
         "projectName": "EfEx",
-        "projectPath": "C:\\Users\\anath\\source\\repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj",
+        "projectPath": "C:\\Users\\anath\\Source\\Repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\EfEx.csproj",
         "packagesPath": "C:\\Users\\anath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anath\\source\\repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\obj\\",
+        "outputPath": "C:\\Users\\anath\\Source\\Repos\\christian\\assignment-4\\RAWDATA_2021_Livecode4\\EfEx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anath\\AppData\\Roaming\\NuGet\\NuGet.Config",
