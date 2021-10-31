@@ -19,6 +19,13 @@ namespace EfEx
             //foreach (var category in dataService.GetCategories())
             //{
             //    Console.WriteLine(category);
+            foreach(var order in dataService.GetOrder())
+            {
+                Console.WriteLine(order);
+            }
+
+
+
             }
 
 

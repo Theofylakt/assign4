@@ -46,7 +46,7 @@ namespace EfEx
             modelBuilder.Entity<Order>().Property(x => x.Id).HasColumnName("orderid");
             modelBuilder.Entity<Order>().Property(x => x.OrderDate).HasColumnName("orderdate");
             modelBuilder.Entity<Order>().Property(x => x.RequiredDate).HasColumnName("requireddate");
-            modelBuilder.Entity<Order>().Property(x => x.ShippedDate).HasColumnName("shippeddate");
+            //modelBuilder.Entity<Order>().Property(x => x.shippeddate).HasColumnName("shippeddate");
             modelBuilder.Entity<Order>().Property(x => x.Freight).HasColumnName("freight");
             modelBuilder.Entity<Order>().Property(x => x.ShipName).HasColumnName("shipname");
             modelBuilder.Entity<Order>().Property(x => x.ShipCity).HasColumnName("shipcity");
